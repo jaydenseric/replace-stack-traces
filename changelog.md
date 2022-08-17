@@ -21,7 +21,7 @@
 - Revamped the readme:
   - Removed the badges.
   - Added a “Requirements” section.
-  - Added information about TypeScript config and [optimal JavaScript module design](https://jaydenseric.com/blog/optimal-javascript-module-design).
+  - Added information about Deno, import maps, TypeScript config and [optimal JavaScript module design](https://jaydenseric.com/blog/optimal-javascript-module-design).
 
 ## 1.0.0
 
