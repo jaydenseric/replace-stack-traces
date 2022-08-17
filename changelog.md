@@ -5,6 +5,7 @@
 ### Major
 
 - Updated Node.js support to `^14.17.0 || ^16.0.0 || >= 18.0.0`.
+- ANSI escape sequences at the end of stack traces are no longer replaced.
 
 ### Patch
 

@@ -20,7 +20,8 @@ export default function replaceStackTraces(
     throw new TypeError("Argument 2 `replacer` must be a string.");
 
   return string.replace(
-    /(^ {2,})at (?:(?! \{$).)+(?:\r?\n\1at (?:(?! \{$).)+)*(?:\r?\n\r?\n *Node\.js v\S+$)?/gmu,
+    // eslint-disable-next-line no-control-regex
+    /(^ {2,})at (?:(?!\u001b| \{$).)+(?:\r?\n\1at (?:(?!\u001b| \{$).)+)*(?:\r?\n\r?\n *Node\.js v(?:(?!\u001b|$).)+)?/gmu,
     replacer
   );
 }
