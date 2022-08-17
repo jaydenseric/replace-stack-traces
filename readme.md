@@ -20,7 +20,7 @@ For [Deno](https://deno.land), an example import map:
 ```json
 {
   "imports": {
-    "replace-stack-traces": "https://unpkg.com/replace-stack-traces@1.0.0/replaceStackTraces.mjs"
+    "replace-stack-traces": "https://unpkg.com/replace-stack-traces@2.0.0/replaceStackTraces.mjs"
   }
 }
 ```

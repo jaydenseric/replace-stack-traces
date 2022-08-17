@@ -1,6 +1,6 @@
 {
   "name": "replace-stack-traces",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A JavaScript function to replace error stack traces and following Node.js versions at any indent in a multiline string.",
   "license": "MIT",
   "author": {

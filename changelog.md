@@ -1,6 +1,6 @@
 # replace-stack-traces changelog
 
-## Next
+## 2.0.0
 
 ### Major
 
