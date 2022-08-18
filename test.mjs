@@ -1,6 +1,6 @@
 // @ts-check
 
-import { strictEqual, throws } from "assert";
+import { strictEqual, throws } from "node:assert";
 import TestDirector from "test-director";
 
 import replaceStackTraces from "./replaceStackTraces.mjs";
