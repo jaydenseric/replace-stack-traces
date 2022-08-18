@@ -25,6 +25,8 @@ For [Deno](https://deno.land), an example import map:
 }
 ```
 
+Then, import and use the function [`replaceStackTraces`](./replaceStackTraces.mjs).
+
 ## Requirements
 
 Supported runtime environments:

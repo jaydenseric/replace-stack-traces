@@ -6,7 +6,7 @@
 
 - Updated dev dependencies.
 - Use the `node:` URL scheme for Node.js builtin module imports in tests.
-- Tweaked punctuation in the readme.
+- Improved the readme.
 
 ## 2.0.0
 
