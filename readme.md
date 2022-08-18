@@ -30,7 +30,7 @@ For [Deno](https://deno.land), an example import map:
 Supported runtime environments:
 
 - [Node.js](https://nodejs.org) versions `^14.17.0 || ^16.0.0 || >= 18.0.0`.
-- [Deno](https://deno.land)
+- [Deno](https://deno.land).
 
 Non [Deno](https://deno.land) projects must configure [TypeScript](https://typescriptlang.org) to use types from the ECMAScript modules that have a `// @ts-check` comment:
 
